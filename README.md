@@ -1,6 +1,6 @@
 # Hi there, I'm Keith 👋 🛠️
 
-An Electronics and Computer Engineer focused on building low-level defense daemons, zero-trust cryptographic architectures, and real-time security control planes.
+An Electronic and Computer Engineer focused on building low-level defense daemons, zero-trust cryptographic architectures, and real-time security control planes.
 
 ---
 

@@ -32,9 +32,8 @@ I've built a modular, inter-connected security stack engineered for real-time th
 
 
 
----
 
-### 🖥️ Featured RMM & Control Plane: FleetPulse
+🖥️ Featured RMM & Control Plane: FleetPulse
 
 A native Windows **Remote Monitoring & Management (RMM)** and **IT Dispatch Engine** engineered for exception-based fleet triage, automated technician workload balancing, and one-click remote remediation.
 
